@@ -2,9 +2,12 @@
 
 -> Client Server Architecture, Not all apps follow this architecture
    - App it self is the client or the fronted part.
-   - Under the hood it need to talk to the Server or the backend to get or save the data.
-   - This communication happens usgin the HTTP protocal, same protcal that powers our web.
-   - So on Server you expose bunch of services that gonna accessable waya the HTTP protocal
+   - Under the hood it need to talk to the Server or the backend to get or save the 
+   data.
+   - This communication happens usgin the HTTP protocal, same protcal that powers 
+   our web.
+   - So on Server you expose bunch of services that gonna accessable waya the 
+   HTTP protocal
 
 -> REST is the short form of Representational State Transfer it is an convention to build this http services,
    - We use http protocal to :  1)Create    data, 
