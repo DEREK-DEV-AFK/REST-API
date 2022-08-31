@@ -1,0 +1,23 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "-> RESTful Services also called as RESTful apis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DEREK-DEV-AFK/REST-API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DEREK-DEV-AFK/REST-API/issues"
+  },
+  "homepage": "https://github.com/DEREK-DEV-AFK/REST-API#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
