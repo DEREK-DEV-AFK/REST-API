@@ -52,4 +52,6 @@ build this http services,
    EXPRESS :
    
    It comes into the picture to give proper structure so we can easily add more 
-    routes while
+    routes while keeping our application code maintainable, there are various app 
+    appilcation building web application and web servers on top of node but the 
+    most popular one is express.
