@@ -42,13 +42,14 @@ build this http services,
      4) DELETE - for deleting the data
 
    Examples :
-   GET /api/customers - to get all the list of customers.
-   GET /api/customers/1 - to get the cosutemr who's id is 1
-   PUT /api/costumers/1 - to update details of costumers of id 1
-   DELETE /api/costumers/1 - to delete the data of customer of id 1
-   POST /api/costumers - to create new costumer
+   - GET /api/customers - to get all the list of customers.
+   - GET /api/customers/1 - to get the cosutemr who's id is 1
+   - PUT /api/costumers/1 - to update details of costumers of id 1
+   - DELETE /api/costumers/1 - to delete the data of customer of id 1
+   - POST /api/costumers - to create new costumer
 
 
-   EXPRESS
-    comes into the picture to give proper structure so we can easily add more 
+   EXPRESS :
+   
+   It comes into the picture to give proper structure so we can easily add more 
     routes while
