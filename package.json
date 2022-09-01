@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/DEREK-DEV-AFK/REST-API#readme",
   "dependencies": {
-    "express": "^4.18.1"
+    "express": "^4.18.1",
+    "joi": "^13.1.0"
   }
 }
