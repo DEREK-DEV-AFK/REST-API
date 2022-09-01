@@ -1,0 +1,3 @@
+1) express - to structure you node
+2) nodemon - to get rid of close node again and again
+3) joi - to easily validate input data
